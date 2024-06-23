@@ -9,6 +9,8 @@ lerna-debug.log*
 
 node_modules
 /part1/courseinfo/src/node_modules
+/part1/unicafe/src/node_modules
+/part1/anecdotes/src/node_modules
 dist
 dist-ssr
 *.local
