@@ -12,6 +12,8 @@ node_modules
 /part1/unicafe/src/node_modules
 /part1/anecdotes/src/node_modules
 /part2/courseinfo/src/node_modules
+/part2/phonebook/src/node_modules
+
 dist
 dist-ssr
 *.local
