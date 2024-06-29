@@ -13,6 +13,10 @@ node_modules
 /part1/anecdotes/src/node_modules
 /part2/courseinfo/src/node_modules
 /part2/phonebook/src/node_modules
+/part2/data_for_countries/src/node_modules
+
+.env
+/part2/data_for_countries/.env
 
 dist
 dist-ssr
